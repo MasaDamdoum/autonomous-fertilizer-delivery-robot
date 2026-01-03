@@ -84,9 +84,10 @@ Custom Arduino code was developed to coordinate sensor inputs with motor outputs
 ---
 
 ## Final Product
-![Final Design](./_Figures/final_design.png)
 
-![Servo-Controlled Dispensing Arm](./_Figures/servo_dispensing_arm.jpg)
+![Final Design](./_figures/final_design.png)
+
+![Servo-Controlled Dispensing Arm](./_figures/servo_dispensing_arm.jpg)
 
 The final prototype demonstrates a fully integrated autonomous agricultural delivery system.
 
