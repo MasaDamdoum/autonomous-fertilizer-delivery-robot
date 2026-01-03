@@ -33,7 +33,7 @@ All functions were executed without manual intervention during operation.
 - Multiple design iterations were required to refine fit, alignment, and dispensing reliability
 
 #### AutoCAD Sketches
-![CAD Sketch](./_Figures/cad_sketch.png)
+![CAD Sketch](./_figures/cad_sketch.png)
 These drawings document the final dimensions, servo placement, and dispensing geometry used for fabrication and assembly.
 
 ---
