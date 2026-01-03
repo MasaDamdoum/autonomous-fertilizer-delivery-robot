@@ -34,6 +34,7 @@ All functions were executed without manual intervention during operation.
 
 #### AutoCAD Sketches
 ![CAD Sketch](./_figures/CAD%20Sketch.png)
+
 These drawings document the final dimensions, servo placement, and dispensing geometry used for fabrication and assembly.
 
 ---
@@ -47,6 +48,8 @@ These drawings document the final dimensions, servo placement, and dispensing ge
 - **Actuators:**
   - DC motors for vehicle motion
   - Servo motor (SG90) for fertilizer dispensing
+ 
+![Servo-Controlled Dispensing Arm](./_figures/Servo-Controlled%20Dispensing%20Arm.jpg)
 
 Custom Arduino code was developed to coordinate sensor inputs with motor outputs, enabling autonomous navigation, obstacle avoidance, and controlled dispensing.
 
@@ -61,8 +64,8 @@ Custom Arduino code was developed to coordinate sensor inputs with motor outputs
 ---
 
 ## Testing and Performance
-- Tested on a **custom obstacle course**
-- Completed the course in **32 seconds**
+- Tested on a custom obstacle course
+- Completed the course in 32 seconds
 - Achieved 100% accuracy in obstacle avoidance and fertilizer delivery
 - Consistently dispensed all five fertilizer units without clogging
 - Total system cost: $98.03 CAD 
@@ -87,7 +90,6 @@ Custom Arduino code was developed to coordinate sensor inputs with motor outputs
 
 ![Final Design](./_figures/Final%20Design.png)
 
-![Servo-Controlled Dispensing Arm](./_figures/Servo-Controlled%20Dispensing%20Arm.jpg)
 
 The final prototype demonstrates a fully integrated autonomous agricultural delivery system.
 
