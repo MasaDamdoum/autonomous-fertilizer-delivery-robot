@@ -33,7 +33,7 @@ All functions were executed without manual intervention during operation.
 - Multiple design iterations were required to refine fit, alignment, and dispensing reliability
 
 #### AutoCAD Sketches
-*(Insert images or PDFs of AutoCAD drawings here)*  
+![CAD Sketch](./_figures/CAD%20Sketch.png)
 These drawings document the final dimensions, servo placement, and dispensing geometry used for fabrication and assembly.
 
 ---
@@ -84,7 +84,9 @@ Custom Arduino code was developed to coordinate sensor inputs with motor outputs
 ---
 
 ## Final Product
-*(Insert image of the fully assembled GrowBot system here)*  
+![Final Design](./_figures/Final%20Design.png)
+
+![Servo-Controlled Dispensing Arm](./_figures/Servo-Controlled%20Dispensing%20Arm.jpg)
 The final prototype demonstrates a fully integrated autonomous agricultural delivery system.
 
 ---
